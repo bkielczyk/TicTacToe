@@ -238,6 +238,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ee24cd6b57224e4aa4d126253f33d43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  kolko: {fileID: 21300000, guid: d7e0d3560a9f7b14da4f49afbe5da06e, type: 3}
+  krzyzyk: {fileID: 21300000, guid: 4d1e0a7680e7e1249989266e1669db68, type: 3}
 --- !u!212 &820099794
 SpriteRenderer:
   m_ObjectHideFlags: 0
