@@ -10,4 +10,11 @@ public class MyWindow : EditorWindow
     {
         GetWindow<MyWindow>();
     }
+    void OnGUI()
+    {
+        if(GUILayout.Button("Moj button"))
+        {
+            Debug.Log("KLIK");
+        }
+    }
 }
